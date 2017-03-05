@@ -11,7 +11,7 @@ set dCounter to 0
 set eCounter to 0
 
 -- Set all the lists to contain what you need for each question
-set question1 to {"1. I like to recieve notes of emotional support and encouragement", "A", "2. I like to be hugged", "E"}
+set question1 to {"1. I like to receive notes of emotional support and encouragement", "A", "2. I like to be hugged", "E"}
 set question2 to {"1. I like to spend one-on-one time with a person who is special to me", "B", "2. I feel loved when someone gives practical help to me", "D"}
 set question3 to {"1. I like it when people give me gifts.", "C", "2. I like leisurely visits with friends and loved ones.", "B"}
 set question4 to {"1. I feel loved when people do things to help me.", "D", "2. I feel loved when people touch me.", "E"}
@@ -19,24 +19,24 @@ set question5 to {"1. I feel loved when someone I love or admire puts his or her
 set question6 to {"1. I like to go places with friends and loved ones.", "B", "2. I like to high-five or hold hands with people who are special to me.", "E"}
 set question7 to {"1. Visible symbols of love (gifts) are very important to me.", "C", "2. I feel loved when people affirm me.", "A"}
 set question8 to {"1. I like to sit close to people whom I enjoy being around.", "E", "2. I like for people to tell me I am attractive/handsome.", "A"}
-set question9 to {"1. I like to spend time with friends and loved ones.", "B", "2. I like to recieve little gifts from friends and loved ones.", "C"}
+set question9 to {"1. I like to spend time with friends and loved ones.", "B", "2. I like to receive little gifts from friends and loved ones.", "C"}
 set question10 to {"1. Words of acceptance are important.", "A", "2. I know someone loves me when he or she helps me.", "D"}
 set question11 to {"1. I like being together and doing things with friends and loved ones.", "B", "2. I like it when kind words are spoken to me.", "A"}
 set question12 to {"1. What someone does affects me more than what he or she says.", "D", "2. Hugs make me feel connected and valued.", "E"}
 set question13 to {"1. I value praise and try to avoid criticism.", "A", "2. Several small gifs mean more to me than one large gift.", "C"}
 set question14 to {"1. I feel close to someone when we are talking or doing something together.", "B", "2. I feel closer to friends and loved ones when they touch me often.", "E"}
-set question15 to {"1. I like for people to compliment my acheivements.", "A", "2. I know people love me when they do things for me that they don't enjoy doing.", "D"}
+set question15 to {"1. I like for people to compliment my achievements.", "A", "2. I know people love me when they do things for me that they don't enjoy doing.", "D"}
 set question16 to {"1. I like to be touched as friends and loved ones walk by.", "E", "2. I like it when people listen to me and show genuine interest in what I am saying.", "B"}
 set question17 to {"1. I feel loved when friends and loved ones help me with jobs or projects.", "D", "2. I really enjoy receiving gifts from friends and loved ones.", "C"}
 set question18 to {"1. I like for people to compliment my appearance.", "A", "2. I feel loved when people take time to understand my feelings.", "B"}
 set question19 to {"1. I feel secure when a special person is touching me.", "E", "2. Acts of service make me feel loved.", "D"}
-set question20 to {"1. I appreciate the many things that special people do for me.", "D", "2. I like recieving gifts that special people make for me.", "C"}
+set question20 to {"1. I appreciate the many things that special people do for me.", "D", "2. I like receiving gifts that special people make for me.", "C"}
 set question21 to {"1. I really enjoy the feeling I get when someone gives me undivided attention.", "B", "2. I really enjoy the feeling I get when someone does some act of service for me.", "D"}
 set question22 to {"1. Words of acceptance are important.", "A", "2. I know someone loves me when he or she helps me.", "D"}
 set question23 to {"1. I know a person is thinking of me when he of she gives me a gift.", "C", "2. I feel loved when a person helps with my chores.", "D"}
-set question24 to {"1. I appreciate it when someone listens patiently and doesn't interrupt me", "B", "2. I appreciate it whne someone remembers special days with a gift.", "C"}
+set question24 to {"1. I appreciate it when someone listens patiently and doesn't interrupt me", "B", "2. I appreciate it when someone remembers special days with a gift.", "C"}
 set question25 to {"1. I like knowing loved ones are concerned enough to help with my daily tasks.", "D", "2. I enjoy extended trips with someone who is special to me.", "B"}
-set question26 to {"1. I enjoy kissing or being kissed by people with whom I am close.", "E", "2. Recieving a gift for no special reason excites me.", "C"}
+set question26 to {"1. I enjoy kissing or being kissed by people with whom I am close.", "E", "2. Receiving a gift for no special reason excites me.", "C"}
 set question27 to {"1. I like to be told that I am appreciated.", "A", "2. I like for a person to look at me when we are talking.", "B"}
 set question28 to {"1. Gifts from a friend or loved one are always mean a lot to me.", "C", "2. I feel good when a friend or loved one touches me.", "E"}
 set question29 to {"1. I feel loved when a person enthusiastically does some task I have requested.", "D", "2. I feel loved when I am told how much I am appreciated.", "A"}
