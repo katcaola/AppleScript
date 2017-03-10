@@ -7,7 +7,7 @@ How to use:
   Save the file locally and open the file with the Mac Script Editor App 
 - Save the file as a .applescript file
 - Create a cron job to run a shell script
-- have the shell script run the apple sript
+- have the shell script run the apple script
 
 Important to note that cron will not run the script if your computer is asleep.
 Be sure to set your cron to run at a time you know your computer will be awake or

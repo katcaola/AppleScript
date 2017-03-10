@@ -2,7 +2,7 @@
 
 What it does: 
 This script is meant to help you pronounce and read Japanese characters. 
-It can help correctly prounounce and Japanese text that the user may come across. 
+It can help correctly pronounce and Japanese text that the user may come across. 
 Can help with learning kanji, hiragana and katakana.
 
 How to use:
