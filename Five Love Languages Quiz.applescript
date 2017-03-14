@@ -64,7 +64,7 @@ set theDialogText to "Welcome!
 set questionDialog to display dialog theDialogText buttons {"Cool, let's get started!"}
 
 -- OPENING DIALOG TEXT - Window 2 - get username
-set temp to display dialog "First off, lets make this personized to you! 
+set temp to display dialog "First off, lets make this personalized to you! 
  What is your name? (Your first name will do)." default answer "No shenanigans, like \"Your Name\" or anything"
 
 set name to text returned of temp
@@ -82,7 +82,7 @@ set numberOfQuestions to the number of items in questionList
 ---------------------------------------------------------------------
 repeat with counter from 1 to numberOfQuestions
 	
-	-- The current question object beinng used
+	-- The current question object being used
 	set currentQuestion to item counter of questionList
 	
 	-- Dialog text that will appear:
@@ -160,7 +160,7 @@ if higherstCount = cCounter then set answerText to "c"
 if higherstCount = dCounter then set answerText to "d"
 if higherstCount = eCounter then set answerText to "e"
 
--- comapre all counts to each other -> highest count gets letter
+-- compare all counts to each other -> highest count gets letter
 -- check if there are duplicates
 -- set explanations based on the highest count(s)
 
